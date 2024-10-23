@@ -1,0 +1,24 @@
+# Ignore arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos compilados
+*.class
+*.pyc
+*.o
+*.out
+
+# Ignore diretórios específicos
+node_modules/
+venv/
+_pycache_/
+dist/
+build/
+
+# Ignore arquivos de ambiente local
+.env
+*.log
+
+# Ignore arquivos de IDEs
+.vscode/
+.idea/
