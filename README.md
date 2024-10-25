@@ -60,6 +60,9 @@ A **WhatsApp GPT Application** foi criada para oferecer uma maneira eficiente e 
 
 6. Conecte o webhook da Twilio ao URL do ngrok gerado
 
+## Licença
+Este projeto está sob a MIT License
+
 ## Contato 💬 
 Email: daniellucas0606@gmail.com
 Linkedin: www.linkedin.com/in/daniel-lucas-214065195/
